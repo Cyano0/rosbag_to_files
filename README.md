@@ -104,8 +104,8 @@ And save to:
 
 | Folder | Contents |
 |--------|----------|
-| `output_images/` | Front camera PNG images |
-| `fisheye_images_12/13/14/` | Fisheye camera images |
+| `output_images/` | Front camera PNG images and `timestamps.mat` |
+| `fisheye_images_12/13/14/` | Fisheye camera images and `timestamps.mat` |
 | `lidar_points/` | `.pcd` point clouds and `timestamps.mat` |
 | `timestamps.mat` | MATLAB-compatible timestamps (per topic) |
 
